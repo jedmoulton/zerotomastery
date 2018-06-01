@@ -1,0 +1,19 @@
+body{
+  background-color: darkgrey;
+}
+
+h1 {text-align: center;
+
+}
+
+p{text-align: justify;
+
+}
+
+div{
+    height: 200px;
+    width: 50%;
+    background-color:powderblue;
+   }
+
+
